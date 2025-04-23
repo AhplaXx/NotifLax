@@ -33,8 +33,6 @@
 
 ## 📸 Screenshots
 
-> These are sample screenshot placeholders. Replace them with your actual images.
-
 | Welcome Page | Auth Page | Home Page |
 |-------------|------------------|--------------|
 |![welcome_page](https://github.com/user-attachments/assets/f6194b6e-000d-46c9-9076-df23f8f5a386)  | ![sign_in_page](https://github.com/user-attachments/assets/5328ff1d-7966-47d4-83b3-b6c95ab00cd9) |![home_page](https://github.com/user-attachments/assets/6e6c50b8-92f4-4f98-950c-9ded8f7d282b) |
