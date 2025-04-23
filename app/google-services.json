@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824826755302",
+    "project_id": "notiflax",
+    "storage_bucket": "notiflax.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824826755302:android:fc012bccd4bedacb512327",
+        "android_client_info": {
+          "package_name": "com.necdetzr.notiflax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxnvnRcZiq8PZe3byeCCvSPkrAY38sNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824826755302:android:dbd8572b51200b09512327",
+        "android_client_info": {
+          "package_name": "com.necdetzr.notiflax2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxnvnRcZiq8PZe3byeCCvSPkrAY38sNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

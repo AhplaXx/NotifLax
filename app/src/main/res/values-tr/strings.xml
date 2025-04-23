@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">NotifLax</string>
+        <string name="welcome_title">NotifLax\'a Hoş Geldiniz!</string>
+        <string name="welcome_text">Önemli notlarınızı, hatırlatıcılarınızı ve tarihlerinizi takip edin, her gün düzenli kalın!</string>
+        <string name="continue_button">Devam Et</string>
+        <string name="signIn_button">Giriş Yap</string>
+        <string name="signUp_button">Kayıt Ol</string>
+        <string name="email">E-Posta</string>
+        <string name="password">Şifre</string>
+        <string name="password_again">Şifreyi Tekrar Girin</string>
+        <string name="second_welcome_title">Seçiminizi Yapın!</string>
+        <string name="second_welcome_text">Notlarınızı ve hatırlatıcılarınızı eklemek ve erişmek için kayıt olun veya giriş yapın. Hiçbir şeyi kaçırmayın, görevlerinizi takip edin!</string>
+        <string name="remember_me">Beni Hatırla</string>
+        <string name="dont_account">Hesabınız yok mu?</string>
+        <string name="have_account">Zaten bir hesabınız var mı?</string>
+    <string name="or">Ya da</string>
+        <string name="invalid_login">E-Posta veya Şifre Yanlış</string>
+        <string name="welcome_back">Tekrar Hoşgeldin!</string>
+        <string name="whats_plan">Bugün planın nedir?</string>
+    <string name="todays_plans">Bugünün Planları</string>
+    <string name="add_new_reminder">Yeni Hatırlatıcı Ekle</string>
+    <string name="information">İçerik</string>
+    <string name="title">Başlık</string>
+    <string name="time">Zaman</string>
+    <string name="category">Kategori</string>
+    <string name="pick_date">Tarih Seç</string>
+    <string name="date">Tarih</string>
+    <string name="notification">Bildirim</string>
+    <string name="color">Renk</string>
+    <string name="do_math">Matematik ödevini yap..</string>
+    <string name="education">Eğitim..</string>
+    <string name="yes">Evet</string>
+    <string name="ok">Tamam</string>
+    <string name="selected_date">Seçilen Tarih</string>
+    <string name="no">Hayır</string>
+    <string name="reminder_added">Hatırlatıcı Başarıyla Eklendi!</string>
+    <string name="general">Genel</string>
+    <string name="account_settings">Hesap Ayarları</string>
+    <string name="app_settings">Uygulama Ayarları</string>
+    <string name="recent_reminders">Son Hatırlatmalar</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="log_out">Çıkış Yap</string>
+    <string name="language">Dil</string>
+    <string name="no_reminder">Bugün için hatırlatıcı yok.</string>
+    <string name="no_reminder_all">Daha herhangi bir hatırlatıcı eklemedin.</string>
+    <string name="fill_all_field">Lütfen tüm alanları doldurun.</string>
+
+
+</resources>
